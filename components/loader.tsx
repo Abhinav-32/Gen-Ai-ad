@@ -9,7 +9,7 @@ export const Loader=() =>{
               src= "/logo.png" />
             </div>
             <p className='text-sm text-muted-foreground'>
-                Genius is Thinking....
+                Gen-AI is Thinking....
             </p>
         </div>
     );
